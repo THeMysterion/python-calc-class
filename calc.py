@@ -10,4 +10,3 @@ class Calculator():
         
 calc = Calculator()
 
-calc.add(10,15)
