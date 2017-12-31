@@ -21,6 +21,10 @@ class Calculator():
         print(score)
         
 calc = Calculator()
-calc
-    
+calc.
 
+#commands
+#add
+#substract
+#multiplier
+#divider
