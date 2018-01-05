@@ -23,8 +23,4 @@ class Calculator():
 calc = Calculator()
 calc.
 
-#commands
-#add
-#substract
-#multiplier
-#divider
+
